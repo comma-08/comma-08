@@ -1,10 +1,6 @@
 <h1 align="lift">Hi 👋, I'm comma_08</h1>
 <h3 align="lift">I'm a 16yo (17 in Korean Age) student developer & Web development Developed since 2019 (but all repositories created in that year are private)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=comma-08&label=Profile%20views&color=0e75b6&style=flat" alt="comma-08" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=comma-08" alt="comma-08" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/comma_0803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="comma_0803" height="30" width="40" /></a>
