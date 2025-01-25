@@ -1,5 +1,5 @@
 <h1 align="lift">Hi 👋, I'm comma_08</h1>
-<h3 align="lift">I'm a 16yo (17 in Korean Age) student developer & Web development Developed since 2019 (but all repositories created in that year are private)</h3>
+<h3 align="lift">I'm a 17yo (18 in Korean Age) student developer & Web development Developed since 2019 (but all repositories created in that year are private)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
